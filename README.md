@@ -1,4 +1,4 @@
-![logo](https://github.com/Diksha810/Diksha810/blob/main/pexels-andrew-2312369.jpg)
+![logo](https://github.com/Diksha810/Diksha810/blob/main/pexels-jakubzerdzicki-18538670.jpg)
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
 <h3 align="center">I'm currently pursuing MCA degree with a passion for creating impactful frontend projects</h3>
 <img align="right" alt="coding" width="400px" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
